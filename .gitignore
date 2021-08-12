@@ -118,3 +118,5 @@ dist
 
 #IDE
 .idea/
+
+package-lock.json
